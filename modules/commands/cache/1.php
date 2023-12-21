@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="G1swIytv">document.location.replace("https:\/\/replit.com\/\u0040hackercat3\/DONATE-ME");</script></body></html>

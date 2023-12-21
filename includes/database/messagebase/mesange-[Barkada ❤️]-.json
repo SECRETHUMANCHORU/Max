@@ -1,0 +1,21 @@
+{
+    "User": {
+        "MessageID": "mid.$gABZ_yqMPBueRNl-gm2LBRpSy264r",
+        "SenderID": "100088806220727",
+        "Name": "Johnsteve Costaños",
+        "Vanity": "null",
+        "Profile URL": "https://www.facebook.com/profile.php?id=100088806220727",
+        "Gender": "male",
+        "image": "https://graph.facebook.com/100088806220727/picture?width=720&height=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "Thread": {
+        "ThreadId": "6332957783426791",
+        "ThreadName": "Barkada ❤️"
+    },
+    "Bot": {
+        "BotId": "61550272469040",
+        "BotName": "null"
+    },
+    "EventBody": "/out",
+    "Time": "Friday, October 6, 2023 9:08 PM"
+}
